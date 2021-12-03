@@ -1,0 +1,8 @@
+.button a {
+	display: block;
+	width: 150px;
+	line-height:50px;
+text-align:center;
+vertical-align:middle;
+text-decoration:none;
+}
